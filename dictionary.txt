@@ -22,3 +22,5 @@ obj.-name    obj.-code   obj.discr.
 слушатель    listener     слушатель
 
 оценивание   evaluation   оценка работы
+
+все очень плохо
